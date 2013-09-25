@@ -1,0 +1,11 @@
+# Compiled source #
+##############################
+*.exe
+*.class
+*.swp
+*.com
+*.o
+*.so
+*.dll
+
+
