@@ -8,7 +8,7 @@
 按此思路，遍历数组只要没遇到负数，就sum+=a[i]；
     遇到负数就比较之前的sum和最新的sum的大小。
 
-### 程序 ###
+### 程序 
 
     [MaxSubArraySum.c](MaxSubArraySum.c)
 
