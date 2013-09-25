@@ -5,4 +5,4 @@
 
 ## 目录 
 
-    1. [最大子数组和](MaxSubArraySum/README.MD)
+    1. [最大子数组和](https://github.com/Imagle/Learning/tree/master/MaxSubArraySum)
