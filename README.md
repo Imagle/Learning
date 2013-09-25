@@ -5,4 +5,4 @@
 
 ## 目录 ##
 
-    1. [最大子数组和](./MaxSubArraySum)
+    1. [最大子数组和](MaxSubArraySum/README.MD)
