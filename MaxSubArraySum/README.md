@@ -11,7 +11,7 @@
 ### 更新(2013-09-26 11:30)
 输出最大子数组和的beginindex和endindex
 
-   for i:0->a.length
+    for i:0->a.length
         a[i]>=0, temp_sum += a[i]
         a[i]<0
             update temp_end;
