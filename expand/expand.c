@@ -23,12 +23,12 @@ int expand(const char s1[], char s2[]){
 }
 
 int main(){
-    //char s1[5]={'-','a','-','z'};
-    char s1[4]={'a', 'b', 'c'};
-    //char s1[7]={'a','-','z','0','-','9'};
+    //char s1[]={'-','a','-','z'};
+    char s1[]={'a', 'b', 'c'};
+    //char s1[]={'a','-','z','0','-','9'};
     char s2[100];
     int j = expand(s1, s2);
     printf("%s", s2);
     //printf("%c", '9'+1);
-    system("pause");
+    //system("pause");
 }
